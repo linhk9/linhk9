@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ [![Linhk9 github stats](https://github-readme-stats.vercel.app/api?username=Linhk9&count_private=true&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhk9&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
