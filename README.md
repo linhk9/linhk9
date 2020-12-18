@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Wellcome to my **Linhk9's** account
+# Wellcome to **Linhk9's** account
 
  [![Linhk9 github stats](https://github-readme-stats.vercel.app/api?username=Linhk9&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
  
