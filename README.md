@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Wellcome to my **Linhk9's** account
 
- [![Linhk9 github stats](https://github-readme-stats.vercel.app/api?username=Linhk9&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Linhk9 github stats](https://github-readme-stats.vercel.app/api?username=Linhk9&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhk9&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhk9&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
