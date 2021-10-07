@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
  [![Linhk9 github stats](https://github-readme-stats.vercel.app/api?username=Linhk9&count_private=true&show_icons=true&theme=react)](https://github.com/linhk9/github-readme-stats) 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhk9&langs_count=10000&theme=react&count_private=true)](https://github.com/linhk9/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhk9&show_icons=true&langs_count=10000&theme=react&count_private=true)](https://github.com/linhk9/github-readme-stats)
 
