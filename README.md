@@ -16,21 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Wellcome to **Linhk9's** profile
+
 <br>
 <div align="center">
   <p>
     <img src="https://i.pinimg.com/originals/fc/35/f2/fc35f21075cc1500fababbbbf501c2e1.gif">
-  </p>
-</div>
-
-<div>
-  <p align="center">
-    <a href="https://github.com/WannaBeChay " target="_blank"><img
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-        alt="Github"></a>
-    <a href="https://steamcommunity.com/id/Chaylann" target="_blank"><img
-        src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-        alt="Steam"></a>
   </p>
 </div>
 <br>
@@ -49,25 +40,12 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center"
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaBeChay&langs_count=8&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div>
-  <h2 align="center">Support Me!</h1>
-  <br>
-  <p align="center"><a href="https://ko-fi.com/chaylann"> <img
-        src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"
-        alt="kofi" width="200" /></a></p>
-</div>
-
-
-
-
-# Wellcome to **Linhk9's** profile
-
+     
  [![Linhk9 github stats](https://github-readme-stats.vercel.app/api?username=Linhk9&count_private=true&show_icons=true&theme=react)](https://github.com/linhk9/github-readme-stats) 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhk9&show_icons=true&langs_count=999999999999&theme=react&count_private=true)](https://github.com/linhk9/github-readme-stats)
+
+</div>
+
+
 
