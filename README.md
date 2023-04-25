@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   <p>
-    <img src="https://i.pinimg.com/originals/fc/35/f2/fc35f21075cc1500fababbbbf501c2e1.gif">
+    <img src="https://cdn.discordapp.com/attachments/606864818246516751/905305646444990474/1home_screen.gif">
   </p>
 </div>
 <br>
