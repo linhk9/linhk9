@@ -41,12 +41,14 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="https://github.com/linhk9">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Linhk9&count_private=true&show_icons=true&theme=react" />
-</a>
+
 
 <a href="https://github.com/linhk9">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhk9&show_icons=true&langs_count=999999999999&theme=react&count_private=true"/>
+</a>
+
+<a href="https://github.com/linhk9">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Linhk9&count_private=true&show_icons=true&theme=react" />
 </a>
 
 <br>
