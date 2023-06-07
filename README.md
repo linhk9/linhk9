@@ -22,7 +22,7 @@ Hi there 👋 I'm Rodrigo 👨‍💻
 </h1> 
 
 <p align='center'>
-  A Portuguese student learning computer engineering
+  A Portuguese student learning software engineering
 </p>
 
 <br>
