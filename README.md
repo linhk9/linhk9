@@ -35,7 +35,7 @@ Hi there 👋 I'm Rodrigo 👨‍💻
 
 <p align='center'>
   💻 My Setup<br/><br/>
-  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11_Pro-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD%20Ryzen_7_2700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650 SUPER-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
