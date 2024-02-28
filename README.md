@@ -28,7 +28,7 @@ Hi there 👋 I'm Rodrigo 👨‍💻
 <br>
 <div align="center">
   <p>
-    <img src="https://imgur.com/sCDjVsp">
+    <img src="https://i.imgur.com/sCDjVsp.gif">
   </p>
 </div>
 <br>
